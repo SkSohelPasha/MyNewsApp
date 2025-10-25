@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "https://sksohelpasha.github.io/MyNewsApp/static/css/main.c0a7547c.css",
-    "main.js": "https://sksohelpasha.github.io/MyNewsApp/static/js/main.ff85ebce.js",
-    "index.html": "https://sksohelpasha.github.io/MyNewsApp/index.html",
-    "main.c0a7547c.css.map": "https://sksohelpasha.github.io/MyNewsApp/static/css/main.c0a7547c.css.map",
-    "main.ff85ebce.js.map": "https://sksohelpasha.github.io/MyNewsApp/static/js/main.ff85ebce.js.map"
+    "main.css": "/static/css/main.c0a7547c.css",
+    "main.js": "/static/js/main.9c7d37a1.js",
+    "index.html": "/index.html",
+    "main.c0a7547c.css.map": "/static/css/main.c0a7547c.css.map",
+    "main.9c7d37a1.js.map": "/static/js/main.9c7d37a1.js.map"
   },
   "entrypoints": [
     "static/css/main.c0a7547c.css",
-    "static/js/main.ff85ebce.js"
+    "static/js/main.9c7d37a1.js"
   ]
 }
